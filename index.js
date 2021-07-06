@@ -1,0 +1,1 @@
+alert('Quer receber notificaçôes?');
